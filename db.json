@@ -4,7 +4,7 @@
             "PhotoId": 1,
             "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
             "Photographer": "Bill Cypher",
-            "Pic": "ireland-2139808_1280.jpg"
+            "Pic": "../ireland-2139808_1280.jpg"
         },
         {
             "PhotoId": 2,
