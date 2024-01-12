@@ -2,33 +2,33 @@
     "Photos": [
         {
             "PhotoId": 1,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
+            "PhotoUrl": "this is a url",
             "Photographer": "Bill Cypher",
-            "Pic": "../ireland-2139808_1280.jpg"
+            "Pic": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
         },
         {
             "PhotoId": 2,
             "PhotoUrl": "wfawfwf",
             "Photographer": "Saorise Ronan",
-            "Pic": ""
+            "Pic": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
         },
         {
             "PhotoId": 3,
             "PhotoUrl": "wfwfwf",
             "Photographer": "Blaithnna Ni Oll Scoil",
-            "Pic": ""
+            "Pic": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
         },
         {
             "PhotoId": 4,
             "PhotoUrl": "gregerg",
             "Photographer": "Martin Laird",
-            "Pic": ""
+            "Pic": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
         },
         {
             "PhotoId": 5,
             "PhotoUrl": "htrhrt",
             "Photographer": "Jessica Devroux",
-            "Pic": ""
+            "Pic": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
         }
     ]
 }
