@@ -1,39 +1,9 @@
 {
     "Photos": [
         {
-            "PhotoId": 1,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "Photographer": "Bill Cypher",
-            "Thumbnail": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "FullImage": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
-        },
-        {
-            "PhotoId": 2,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "Photographer": "Saorise Ronan",
-            "Thumbnail": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "FullImage": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
-        },
-        {
-            "PhotoId": 3,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "Photographer": "Blaithnna Ni Oll Scoil",
-            "Thumbnail": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "FullImage": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
-        },
-        {
-            "PhotoId": 4,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "Photographer": "Martin Laird",
-            "Thumbnail": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "FullImage": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
-        },
-        {
-            "PhotoId": 5,
-            "PhotoUrl": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "Photographer": "Jessica Devroux",
-            "Thumbnail": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg",
-            "FullImage": "C:/Users/laird/Downloads/ireland-2139808_1280.jpg"
+        "PhotoURL": "C:\Users\laird\Downloads\logo-Test.png"
         }
     ]
 }
+
+
